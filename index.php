@@ -2,13 +2,14 @@
 <html>
 
 <head>
-    <title>Prachtige website</title>
+    <title>Hello world</title>
 </head>
 
 <body>
-    <h1>Mijn allereerste webpagina!</h1>
-    <p>Hello world</p>
-    <img src="https://github.com/fluidicon.png" alt="Huh mijn afbeelding laad niet..." />
+    <h1>Mijn prachtige webpagina!</h1>
+
+    <p>Met een smiley! :)</p>
+    <img src="smiley.png" alt="Oeps, mijn afbeelding laad niet..." />
     <?php
     echo "<p>";
 
@@ -25,6 +26,11 @@
 <style>
     * {
         text-align: center;
+    }
+
+    img {
+        height: 50px;
+        width: auto;
     }
 
     p {
