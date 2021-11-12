@@ -26,6 +26,8 @@
 <style>
     * {
         text-align: center;
+        background-color: blue;
+
     }
 
     img {
@@ -35,6 +37,7 @@
 
     p {
         margin: 0 10rem;
+        color: yellow;
     }
 </style>
 
